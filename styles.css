@@ -1,4 +1,9 @@
-#list {
+.head {
     color: white;
 background-color: blue;
+
+}
+.tail {
+    color: red;
+    background-color: green;
 }
